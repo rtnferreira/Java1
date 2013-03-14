@@ -19,5 +19,6 @@ public class PL5 {
         System.out.println("linha1");
         System.out.println("linha2");
         System.out.println("Linha3");
+        System.out.println("Linha4");
     }
 }
